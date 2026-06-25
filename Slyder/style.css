@@ -1,0 +1,31 @@
+body {
+    display: flex;
+}
+
+.BAZA {
+    display: flex;
+}
+
+.firstslyde.est {
+    display: flex;
+}
+
+.firstslyde {
+    display: none;
+}
+
+.Secondslyde {
+    display: flex;
+    display: none;
+}
+
+.Secondslyde.est {
+    display: flex;
+}
+
+.objava {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
